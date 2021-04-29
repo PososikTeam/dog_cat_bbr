@@ -1,0 +1,557 @@
+{
+  "best": {
+    "accuracy01": 0.9893617021276596,
+    "IoU": 0.8919459154767265,
+    "loss": 0.11875011119064997
+  },
+  "last": {
+    "accuracy01": 0.9946808510638298,
+    "IoU": 0.8898985558406706,
+    "loss": 0.12329297232493289
+  },
+  "train.51": {
+    "accuracy01": 0.9893617021276596,
+    "IoU": 0.8919459154767265,
+    "loss": 0.11875011119064997
+  },
+  "epoch_0": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.1.pth",
+    0.5288226315875615,
+    {
+      "accuracy01": 0.9787234042553191,
+      "IoU": 0.5288226315875615,
+      "loss": 0.628420183564914
+    }
+  ],
+  "epoch_1": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.2.pth",
+    0.6198989672454726,
+    {
+      "accuracy01": 0.9867021276595744,
+      "IoU": 0.6198989672454726,
+      "loss": 0.4605683697049021
+    }
+  ],
+  "epoch_2": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.3.pth",
+    0.715818286282316,
+    {
+      "accuracy01": 0.9893617021276596,
+      "IoU": 0.715818286282316,
+      "loss": 0.34349185512548686
+    }
+  ],
+  "epoch_3": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.4.pth",
+    0.7419021406883697,
+    {
+      "accuracy01": 0.9920212765957447,
+      "IoU": 0.7419021406883697,
+      "loss": 0.30217093518179594
+    }
+  ],
+  "epoch_4": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.5.pth",
+    0.7615937373502929,
+    {
+      "accuracy01": 0.9946808510638298,
+      "IoU": 0.7615937373502929,
+      "loss": 0.27624775538304736
+    }
+  ],
+  "epoch_5": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.6.pth",
+    0.6873907805204966,
+    {
+      "accuracy01": 0.9547872340425532,
+      "IoU": 0.6873907805204966,
+      "loss": 0.3918354407013977
+    }
+  ],
+  "epoch_6": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.7.pth",
+    0.7410679932978836,
+    {
+      "accuracy01": 0.9867021276595744,
+      "IoU": 0.7410679932978836,
+      "loss": 0.3003384531104703
+    }
+  ],
+  "epoch_7": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.8.pth",
+    0.7704858217716825,
+    {
+      "accuracy01": 0.9867021276595744,
+      "IoU": 0.7704858217716825,
+      "loss": 0.2641766840920018
+    }
+  ],
+  "epoch_8": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.9.pth",
+    0.769585180581459,
+    {
+      "accuracy01": 0.9920212765957447,
+      "IoU": 0.769585180581459,
+      "loss": 0.27642028510662986
+    }
+  ],
+  "epoch_9": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.10.pth",
+    0.8141417780250205,
+    {
+      "accuracy01": 0.9893617021276596,
+      "IoU": 0.8141417780250205,
+      "loss": 0.21300223052337802
+    }
+  ],
+  "epoch_10": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.11.pth",
+    0.8002485363439558,
+    {
+      "accuracy01": 0.9840425531914894,
+      "IoU": 0.8002485363439558,
+      "loss": 0.22985506590246657
+    }
+  ],
+  "epoch_11": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.12.pth",
+    0.7965013897309217,
+    {
+      "accuracy01": 0.9973404255319149,
+      "IoU": 0.7965013897309217,
+      "loss": 0.23277259640900658
+    }
+  ],
+  "epoch_12": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.13.pth",
+    0.7944320561150857,
+    {
+      "accuracy01": 0.9840425531914894,
+      "IoU": 0.7944320561150857,
+      "loss": 0.24787671176822015
+    }
+  ],
+  "epoch_13": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.14.pth",
+    0.8229702168844759,
+    {
+      "accuracy01": 0.9840425531914894,
+      "IoU": 0.8229702168844759,
+      "loss": 0.20412457687960134
+    }
+  ],
+  "epoch_14": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.15.pth",
+    0.8230720868903344,
+    {
+      "accuracy01": 0.9946808510638298,
+      "IoU": 0.8230720868903344,
+      "loss": 0.20389984239698056
+    }
+  ],
+  "epoch_15": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.16.pth",
+    0.8261809062570042,
+    {
+      "accuracy01": 0.9946808510638298,
+      "IoU": 0.8261809062570042,
+      "loss": 0.19869827182445868
+    }
+  ],
+  "epoch_16": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.17.pth",
+    0.8408442865792397,
+    {
+      "accuracy01": 0.9893617021276596,
+      "IoU": 0.8408442865792397,
+      "loss": 0.18160841721479973
+    }
+  ],
+  "epoch_17": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.18.pth",
+    0.8354088633923644,
+    {
+      "accuracy01": 0.9867021276595744,
+      "IoU": 0.8354088633923644,
+      "loss": 0.18683777982659996
+    }
+  ],
+  "epoch_18": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.19.pth",
+    0.8445886740419372,
+    {
+      "accuracy01": 0.9893617021276596,
+      "IoU": 0.8445886740419372,
+      "loss": 0.18051105302621423
+    }
+  ],
+  "epoch_19": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.20.pth",
+    0.8293426958517437,
+    {
+      "accuracy01": 1.0,
+      "IoU": 0.8293426958517437,
+      "loss": 0.1930934699597205
+    }
+  ],
+  "epoch_20": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.21.pth",
+    0.830009952795563,
+    {
+      "accuracy01": 0.9973404255319149,
+      "IoU": 0.830009952795563,
+      "loss": 0.19204536037956796
+    }
+  ],
+  "epoch_21": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.22.pth",
+    0.8400784454857905,
+    {
+      "accuracy01": 0.9920212765957447,
+      "IoU": 0.8400784454857905,
+      "loss": 0.18039935649976935
+    }
+  ],
+  "epoch_22": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.23.pth",
+    0.8421153909220932,
+    {
+      "accuracy01": 0.9946808510638298,
+      "IoU": 0.8421153909220932,
+      "loss": 0.17708009893767837
+    }
+  ],
+  "epoch_23": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.24.pth",
+    0.8604638688239068,
+    {
+      "accuracy01": 0.9893617021276596,
+      "IoU": 0.8604638688239068,
+      "loss": 0.15656796751424348
+    }
+  ],
+  "epoch_24": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.25.pth",
+    0.8542838569144448,
+    {
+      "accuracy01": 0.9920212765957447,
+      "IoU": 0.8542838569144448,
+      "loss": 0.1648069980177267
+    }
+  ],
+  "epoch_25": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.26.pth",
+    0.860742954480796,
+    {
+      "accuracy01": 0.9946808510638298,
+      "IoU": 0.860742954480796,
+      "loss": 0.15503767780671843
+    }
+  ],
+  "epoch_26": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.27.pth",
+    0.8551322015529534,
+    {
+      "accuracy01": 0.9946808510638298,
+      "IoU": 0.8551322015529534,
+      "loss": 0.16469969705629178
+    }
+  ],
+  "epoch_27": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.28.pth",
+    0.8495280411333994,
+    {
+      "accuracy01": 0.9920212765957447,
+      "IoU": 0.8495280411333994,
+      "loss": 0.1702913119972418
+    }
+  ],
+  "epoch_28": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.29.pth",
+    0.8503929548812967,
+    {
+      "accuracy01": 0.9893617021276596,
+      "IoU": 0.8503929548812967,
+      "loss": 0.1695932635741161
+    }
+  ],
+  "epoch_29": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.30.pth",
+    0.8570124194353682,
+    {
+      "accuracy01": 0.9840425531914894,
+      "IoU": 0.8570124194353682,
+      "loss": 0.16118395956272502
+    }
+  ],
+  "epoch_30": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.31.pth",
+    0.8520237931421206,
+    {
+      "accuracy01": 0.9973404255319149,
+      "IoU": 0.8520237931421206,
+      "loss": 0.16655519906764463
+    }
+  ],
+  "epoch_31": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.32.pth",
+    0.8629634225044887,
+    {
+      "accuracy01": 0.9920212765957447,
+      "IoU": 0.8629634225044887,
+      "loss": 0.15299308928019706
+    }
+  ],
+  "epoch_32": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.33.pth",
+    0.8689984788690682,
+    {
+      "accuracy01": 0.9973404255319149,
+      "IoU": 0.8689984788690682,
+      "loss": 0.14457817191176559
+    }
+  ],
+  "epoch_33": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.34.pth",
+    0.8659539652110341,
+    {
+      "accuracy01": 0.9973404255319149,
+      "IoU": 0.8659539652110341,
+      "loss": 0.15155034196089137
+    }
+  ],
+  "epoch_34": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.35.pth",
+    0.8697180844642445,
+    {
+      "accuracy01": 1.0,
+      "IoU": 0.8697180844642445,
+      "loss": 0.15017965410171435
+    }
+  ],
+  "epoch_35": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.36.pth",
+    0.8721519460295233,
+    {
+      "accuracy01": 0.9973404255319149,
+      "IoU": 0.8721519460295233,
+      "loss": 0.14219878594139979
+    }
+  ],
+  "epoch_36": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.37.pth",
+    0.8704712681701715,
+    {
+      "accuracy01": 0.9973404255319149,
+      "IoU": 0.8704712681701715,
+      "loss": 0.14728722929124416
+    }
+  ],
+  "epoch_37": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.38.pth",
+    0.8761187689286981,
+    {
+      "accuracy01": 0.9946808510638298,
+      "IoU": 0.8761187689286981,
+      "loss": 0.13855091147994789
+    }
+  ],
+  "epoch_38": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.39.pth",
+    0.8732674271856141,
+    {
+      "accuracy01": 0.9973404255319149,
+      "IoU": 0.8732674271856141,
+      "loss": 0.14641421294885806
+    }
+  ],
+  "epoch_39": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.40.pth",
+    0.8799871094648846,
+    {
+      "accuracy01": 0.9920212765957447,
+      "IoU": 0.8799871094648846,
+      "loss": 0.1390723819152761
+    }
+  ],
+  "epoch_40": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.41.pth",
+    0.8770933137257031,
+    {
+      "accuracy01": 1.0,
+      "IoU": 0.8770933137257031,
+      "loss": 0.1350102950878124
+    }
+  ],
+  "epoch_41": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.42.pth",
+    0.8833501335873157,
+    {
+      "accuracy01": 0.9973404255319149,
+      "IoU": 0.8833501335873157,
+      "loss": 0.12920539574140763
+    }
+  ],
+  "epoch_42": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.43.pth",
+    0.8828325147356271,
+    {
+      "accuracy01": 0.9973404255319149,
+      "IoU": 0.8828325147356271,
+      "loss": 0.13232233969893142
+    }
+  ],
+  "epoch_43": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.44.pth",
+    0.8843252404346728,
+    {
+      "accuracy01": 0.9973404255319149,
+      "IoU": 0.8843252404346728,
+      "loss": 0.12980511899854766
+    }
+  ],
+  "epoch_44": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.45.pth",
+    0.8874541600838751,
+    {
+      "accuracy01": 0.9973404255319149,
+      "IoU": 0.8874541600838751,
+      "loss": 0.125562981969956
+    }
+  ],
+  "epoch_45": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.46.pth",
+    0.8838647613737537,
+    {
+      "accuracy01": 0.9920212765957447,
+      "IoU": 0.8838647613737537,
+      "loss": 0.12987882574520873
+    }
+  ],
+  "epoch_46": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.47.pth",
+    0.8879235751544458,
+    {
+      "accuracy01": 0.9946808510638298,
+      "IoU": 0.8879235751544458,
+      "loss": 0.12497554092352331
+    }
+  ],
+  "epoch_47": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.48.pth",
+    0.8850818990977488,
+    {
+      "accuracy01": 0.9946808510638298,
+      "IoU": 0.8850818990977488,
+      "loss": 0.1287311131817496
+    }
+  ],
+  "epoch_48": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.49.pth",
+    0.8842873378507154,
+    {
+      "accuracy01": 0.9946808510638298,
+      "IoU": 0.8842873378507154,
+      "loss": 0.13080488899420825
+    }
+  ],
+  "epoch_49": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.50.pth",
+    0.8885884857240399,
+    {
+      "accuracy01": 0.9893617021276596,
+      "IoU": 0.8885884857240399,
+      "loss": 0.12330123337423184
+    }
+  ],
+  "epoch_50": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.51.pth",
+    0.8919459154767265,
+    {
+      "accuracy01": 0.9893617021276596,
+      "IoU": 0.8919459154767265,
+      "loss": 0.11875011119064997
+    }
+  ],
+  "epoch_51": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.52.pth",
+    0.8899130313847772,
+    {
+      "accuracy01": 0.9946808510638298,
+      "IoU": 0.8899130313847772,
+      "loss": 0.12242851244467548
+    }
+  ],
+  "epoch_52": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.53.pth",
+    0.890564432050956,
+    {
+      "accuracy01": 0.9946808510638298,
+      "IoU": 0.890564432050956,
+      "loss": 0.12220724344373891
+    }
+  ],
+  "epoch_53": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.54.pth",
+    0.8888622789619168,
+    {
+      "accuracy01": 0.9946808510638298,
+      "IoU": 0.8888622789619168,
+      "loss": 0.1244337945966534
+    }
+  ],
+  "epoch_54": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.55.pth",
+    0.8891236924611668,
+    {
+      "accuracy01": 0.9946808510638298,
+      "IoU": 0.8891236924611668,
+      "loss": 0.12222512705700658
+    }
+  ],
+  "epoch_55": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.56.pth",
+    0.8883450787511579,
+    {
+      "accuracy01": 0.9920212765957447,
+      "IoU": 0.8883450787511579,
+      "loss": 0.12487285858422939
+    }
+  ],
+  "epoch_56": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.57.pth",
+    0.8916344324361635,
+    {
+      "accuracy01": 0.9946808510638298,
+      "IoU": 0.8916344324361635,
+      "loss": 0.12080582408504609
+    }
+  ],
+  "epoch_57": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.58.pth",
+    0.8890877952726186,
+    {
+      "accuracy01": 0.9973404255319149,
+      "IoU": 0.8890877952726186,
+      "loss": 0.1241694847104416
+    }
+  ],
+  "epoch_58": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.59.pth",
+    0.8910111774690962,
+    {
+      "accuracy01": 0.9946808510638298,
+      "IoU": 0.8910111774690962,
+      "loss": 0.12094566022659697
+    }
+  ],
+  "epoch_59": [
+    "runs\\Apr28_19_19_mobilenetv2_120d_512_medium_adam_0.0003_EfficientIoU\\checkpoints/train.60.pth",
+    0.8898985558406706,
+    {
+      "accuracy01": 0.9946808510638298,
+      "IoU": 0.8898985558406706,
+      "loss": 0.12329297232493289
+    }
+  ]
+}

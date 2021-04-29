@@ -1,0 +1,1 @@
+python train.py --seed 788 -v -b 8 -e 60 -s 224 -a medium -lr 3e-4 -bce_coeff 0.1 -m mobilenetv2_100
