@@ -8,4 +8,7 @@ Bounding box regression
 | mobilenetv2_100 | 0.8403 | 0.9947 | 0.063 | EfficientIoU | 224 | 0.1 | medium | 8 | 3e-4|
 | mobilenetv2_110d | 0.8524 | 0.9947 | 0.066 | EfficientIoU | 224 | 0.1 | medium | 8 | 3e-4|
 | mobilenetv2_140 | 0.8498 | 0.8989 | 0.069 | EfficientIoU | 224 | 0.1 | medium | 8 | 3e-4|
+| mobilenetv2_110d | 0.8543 | 0.9947 | 0.066 | EfficientIoU | 224 | 0.1 | hard | 8 | 3e-4|
+| mobilenetv2_110d | 0.8570 | 0.9920 | 0.066 | EfficientIoU | 224 | 0.05 | hard | 8 | 3e-4|
+| mobilenetv2_110d | 0.8593 | 0.9947  | 0.066 | EfficientIoU | 224 | 0.15 | hard | 8 | 3e-4|
 
